@@ -1,6 +1,5 @@
 package com.example.shoppingcartservice.adapter.in.web.dto;
 
-import com.example.shoppingcartservice.core.CartItem;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
